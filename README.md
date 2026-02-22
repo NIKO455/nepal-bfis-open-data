@@ -1,4 +1,4 @@
-# 🇳🇵 Banks and Financial Institutions in Nepal (Mid-Jan 2025)
+# 🇳🇵 Banks and Financial Institutions in Nepal (2082 Poush)
 
 Structured dataset of Nepalese BFIs categorized by Nepal Rastra Bank.
 
