@@ -15,11 +15,15 @@ JSON
 
 ## Last Updated
 
-January 15, 2025
+February 12, 2026
 
 ## Source
 
 Nepal Rastra Bank
+
+```https://www.nrb.org.np/category/list-of-bfis/
+
+```
 
 ## License
 
