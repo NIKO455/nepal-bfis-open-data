@@ -20,10 +20,7 @@ February 12, 2026
 ## Source
 
 Nepal Rastra Bank
-
-```https://www.nrb.org.np/category/list-of-bfis/
-
-```
+https://www.nrb.org.np/category/list-of-bfis
 
 ## License
 
